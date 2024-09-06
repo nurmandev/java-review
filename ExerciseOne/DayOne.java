@@ -10,5 +10,6 @@ public class DayOne {
 
         System.out.println("Enter The First Number " + sc);
         sc.nextLine();
+        System.out.println(sc);
     }
 }
